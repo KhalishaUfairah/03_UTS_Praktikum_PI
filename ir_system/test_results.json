@@ -1,0 +1,478 @@
+[
+ {
+  "query": "kecerdasan buatan",
+  "filter": null,
+  "tokens": [
+   "kecerdasan",
+   "buatan"
+  ],
+  "ms": 23,
+  "results": [
+   {
+    "doc_id": 11464,
+    "dataset": "etd-ugm",
+    "judul": "INTERNSHIP REPORT: PT KPMG SIDDHARTA ADVISORY “HOW ARTIFICIAL INTELLIGENCE CAN AID IN VALUATION SERVICES”",
+    "snippet": "Tesis ini ditulis sebagai laporan magang di PT KPMG Siddharta Advisory, cabang Indonesia dari perusahaan akuntansi global, khususnya tim penilaian dan pemodelan keuangan. Tesis ini mengeksplorasi peran masa depan kecerda...",
+    "bm25": 16.76680100927354,
+    "cosine": 0.5687111245916712
+   },
+   {
+    "doc_id": 46785,
+    "dataset": "mojok",
+    "judul": "Kecerdasan Buatan Bisa Nggak Cerdas Lagi kalau Gantikan PNS dan Hadapi Birokrasi Fotokopi",
+    "snippet": "MOJOK.CO – Kecerdasan Buatan (AI), konon katanya, akan menggantikan PNS. Menghadapi ribetnya birokrasi fotokopi, bisa jadi kecerdasan buatan bakal menyerah. Diskursus teknologi Artificial Intelligence atau kecerdasan bua...",
+    "bm25": 16.258337793656853,
+    "cosine": 0.5583407444150216
+   },
+   {
+    "doc_id": 18746,
+    "dataset": "etd-ugm",
+    "judul": "THE ARTIFICIAL INTELLIGENCE PATENT TOWARDS ITS INVENTIONS AND THE REGULATION FOR THE USE OF ARTIFICIAL INTELLIGENCE IN INDONESIA'S BUSINESS FIELD (COMPARATIVE STUDY OF INDONESIA, UNITED STATES AND EUROPEAN UNION)",
+    "snippet": "Pesatnya perkembangan teknologi, khususnya perangkat lunak dan perangkat keras menjadikan penggunaan kecerdasan buatan sebagai hal yang umum. Robot dengan kemampuan kecerdasan buatan tidak lagi dianggap sebagai alat untu...",
+    "bm25": 16.740955384804572,
+    "cosine": 0.5507427126572113
+   },
+   {
+    "doc_id": 13527,
+    "dataset": "etd-ugm",
+    "judul": "Korelasi Antara Kreativitas Pengalaman Seni Komunitas SAGA dengan Kecerdasan Majemuk",
+    "snippet": "Seni perlu dipahami tidak hanya sebagai objek estetika melainkan juga sebagai fungsi kreativitas yang diwujudkan dalam pengalaman artistik. Pada proses penciptaan, pelaku seni memanfaatkan multi interaksi dari berbagai p...",
+    "bm25": 9.472892032668385,
+    "cosine": 0.4152521734341268
+   },
+   {
+    "doc_id": 7353,
+    "dataset": "etd-usk",
+    "judul": "PERBANDINGAN HASIL TANGKAPAN UMPAN PANCING GURITA SEMI BUATAN DAN BUATAN DI KECAMATAN SALANG KABUPATEN SIMEULUE",
+    "snippet": "Penelitian ini dilaksanakan pada bulan Mei 2022, berlokasi di kecamatan salang kabupaten simeulue. Penelitian ini bertujuan untuk mengetahui komposisi hasil tangkapan gurita dengan menggunakan alat tangkap pancing gurita...",
+    "bm25": 8.08097008299148,
+    "cosine": 0.37282185960071995
+   }
+  ]
+ },
+ {
+  "query": "pembelajaran matematika siswa SMP",
+  "filter": null,
+  "tokens": [
+   "pembelajaran",
+   "matematika",
+   "siswa",
+   "smp"
+  ],
+  "ms": 20,
+  "results": [
+   {
+    "doc_id": 46070,
+    "dataset": "mojok",
+    "judul": "Pembelajaran Matematika Seharusnya SESAT, Maksudnya Seru, Serius, Aplikatif, dan Transformatif",
+    "snippet": "Riset OECD 2018 menunjukkan bahwa dalam bidang matematika, hanya 28% siswa Indonesia yang mencapai kemahiran tingkat 2. Hal ini menunjukkan bahwa kemampuan siswa Indonesia masih di bawah rata-rata. Saya sekali karena ilm...",
+    "bm25": 22.32716687546042,
+    "cosine": 0.6743124542914257
+   },
+   {
+    "doc_id": 8961,
+    "dataset": "etd-usk",
+    "judul": "KECEMASAN MATEMATIKA SISWA SMP SELAMA PEMBELAJARAN REMEDIAL BERBASIS E-LEARNING",
+    "snippet": "Penelitian ini bertujuan untuk melihat tingkat kecemasan matematika pada siswa SMP serta faktor-faktor yang memengaruhinya. Metode yang digunakan adalah mixed method sequential explanatory. Populasi terdiri dari empat SM...",
+    "bm25": 29.014119785935648,
+    "cosine": 0.6597361582944739
+   },
+   {
+    "doc_id": 7218,
+    "dataset": "etd-usk",
+    "judul": "MENGIDENTIFIKASI SOCIOMATHEMATICAL NORM SISWA MELALUI PROJEK GAME DENGAN KONTEKS STUNTING  BERBANTUAN AUGMENTED REALITY PADA MATERI STATISTIKA",
+    "snippet": "Sociomathematical norms mengacu pada perilaku yang muncul dari interaksi siswa dengan matematika dalam pembelajaran matematika. Namun, sebagian siswa menganggap bahwa pembelajaran matematika bersifat individual dan inter...",
+    "bm25": 26.398025168918192,
+    "cosine": 0.6109238226825395
+   },
+   {
+    "doc_id": 4489,
+    "dataset": "etd-usk",
+    "judul": "EFEKTIVITAS PENDEKATAN MATEMATIKA REALISTIK UNTUK MENINGKATKAN LITERASI NUMERASI SISWA SMP",
+    "snippet": "ABSTRAKSaiful Ahyar. 2023. Efektivitas Pendekatan Matematika Realistik untuk Meningkatkan Literasi Numerasi Siswa SMP.Pembelajaran matematika seringkali didominasi oleh hafalan rumus dan prosedur yang tidak ada kaitannya...",
+    "bm25": 28.739869110928986,
+    "cosine": 0.6030827641408978
+   },
+   {
+    "doc_id": 6154,
+    "dataset": "etd-usk",
+    "judul": "HASIL BELAJAR MATEMATIKA DAN KETERLIBATAN SISWA MELALUI PENERAPAN MODEL PEMBELAJARAN FLIPPED CLASSROOM DI SMA NEGERI 4 BANDA ACEH",
+    "snippet": "Rendahnya hasil belajar dan keterlibatan siswa terkait pembelajaran matematika merupakan fenomena yang ditemukan oleh banyak guru. Salah satu model pembelajaran yang memanfaatkan teknologi informasi dan komunikasi secara...",
+    "bm25": 21.808842127824143,
+    "cosine": 0.5360562674188976
+   }
+  ]
+ },
+ {
+  "query": "korupsi pejabat negara",
+  "filter": null,
+  "tokens": [
+   "korupsi",
+   "pejabat",
+   "negara"
+  ],
+  "ms": 31,
+  "results": [
+   {
+    "doc_id": 27767,
+    "dataset": "kompas",
+    "judul": "Perang Memberantas Korupsi pada Masa Orde Lama",
+    "snippet": "KOMPAS.com - Tidak lama setelah merdeka, Indonesia ternyata sudah dihadapkan dengan permasalahan korupsi. Korupsi terjadi di Indonesia sejak Orde Lama di bawah pemerintahan Presiden Soekarno. Sejarah korupsi di era Orde ...",
+    "bm25": 17.496416450741066,
+    "cosine": 0.5940885257860046
+   },
+   {
+    "doc_id": 35522,
+    "dataset": "tempo",
+    "judul": "Mengapa Negara-negara Nordik Selalu Masuk Daftar Negara Paling Bahagia?",
+    "snippet": "TEMPO.CO,Jakarta- World Happiness Report tiap tahun merilis daftarnegara paling bahagiadi dunia berdasarkan berbagai faktor, seperti kesejahteraan sosial, kebebasan, dan sistem kesehatan. Pada 2025, Finlandia kembali men...",
+    "bm25": 9.76782269917576,
+    "cosine": 0.4254299345173072
+   },
+   {
+    "doc_id": 43338,
+    "dataset": "mojok",
+    "judul": "Brutalnya Hidup di Negara kayak Indonesia: Negara ‘Survival of The Fittest’",
+    "snippet": "MOJOK.CO – Konsep negara kita bukan negara sosialis, bukan negara kapitalis, apalagi negara gotong-royong. Konsep negara kita adalah survival of the fittest alias hukum rimba. Catat ini baik-baik: survival of the fittest...",
+    "bm25": 8.17426613134143,
+    "cosine": 0.42393888522257067
+   },
+   {
+    "doc_id": 5286,
+    "dataset": "etd-usk",
+    "judul": "PERTANGGUNGJAWABAN PIDANA PENETAPAN DISKRESI OLEH PEJABAT PEMERINTAH DALAM KAITANNYA DENGAN TINDAK PIDANA KORUPSI (STUDI KASUS PUTUSAN MAHKAMAH KONSTITUSI NOMOR 25/PUU-XIV/2016)",
+    "snippet": "PERTANGGUNGJAWABAN PIDANA PENETAPAN DISKRESI OLEH PEJABAT PEMERINTAH DALAM KAITANNYA DENGAN TINDAK PIDANA KORUPSI(Studi Kasus Putusan Mahkamah KonstitusiNomor 25/PUU-XIV/2016)Teuku ZulkarnaenDahlan Ali**Mahdi Syahbandir*...",
+    "bm25": 17.71055381202724,
+    "cosine": 0.3986230595971735
+   },
+   {
+    "doc_id": 39723,
+    "dataset": "tempo",
+    "judul": "Ketua KPK Memastikan Tetap Berwenang Menindak Kasus Korupsi di BUMN",
+    "snippet": "TEMPO.CO,Jakarta-Ketua Komisi Pemberantasan Korupsi (KPK) Setyo Budiyanto menyatakan lembaganya tetap memiliki kewenangan untuk melakukan penindakan kasus korupsi di Badan Usaha Milik Negara (BUMN). \"KPK berpandangan bah...",
+    "bm25": 11.248976053556204,
+    "cosine": 0.3959994677585603
+   }
+  ]
+ },
+ {
+  "query": "harga BBM naik",
+  "filter": null,
+  "tokens": [
+   "harga",
+   "bbm",
+   "naik"
+  ],
+  "ms": 35,
+  "results": [
+   {
+    "doc_id": 40707,
+    "dataset": "mojok",
+    "judul": "Harga BBM Naik, Jokowi dan Sri Mulyani Sukses “Menistakan” Harga Diri Rupiah dan Pancasila",
+    "snippet": "MOJOK.CO – Per 3 September 2022, harga BBM resmi naik. Jualan Jokowi dan Sri Mulyani ini justru sukses menghantam harga diri rupiah dan Pancasila. Akhirnya pemerintah memutuskan untuk menaikan harga BBM subsidi dan non-s...",
+    "bm25": 18.76041720354716,
+    "cosine": 0.6190723158827296
+   },
+   {
+    "doc_id": 22531,
+    "dataset": "kompas",
+    "judul": "Libur Waisak, Harga BBM di SPBU Pertamina, Shell, dan BP Stabil",
+    "snippet": "KOMPAS.com – Harga bahan bakar minyak (BBM) di sejumlah Stasiun Pengisian Bahan Bakar Umum (SPBU), seperti Pertamina, Shell, BP, dan Vivo, tercatat stabil pada pekan kedua Mei 2025. Kondisi ini terpantau di tengah moment...",
+    "bm25": 14.952938782188925,
+    "cosine": 0.554034688851555
+   },
+   {
+    "doc_id": 34946,
+    "dataset": "tempo",
+    "judul": "Pertamina Turunkan Harga BBM Non-subsidi Pertamax dan Dex Series, Kok Bisa?",
+    "snippet": "TEMPO.CO,Jakarta- PTPertaminaPatra Niaga kembali menyesuaikan harga Bahan Bakar Minyak (BBM) non-subsidi, dengan menurunkan harga untuk produk Pertamax Series dan Dex Series mulai 1 Mei 2025. Penyesuaian ini dilakukan se...",
+    "bm25": 14.607801269841337,
+    "cosine": 0.533665823927746
+   },
+   {
+    "doc_id": 29000,
+    "dataset": "kompas",
+    "judul": "Perbandingan Harga BBM Pertamina, Shell, dan BP AKR per 1 Mei 2025",
+    "snippet": "KOMPAS.com - Harga bahan bakar minyak (BBM) Pertamina, Shell, dan BP AKR kompak mengalami penurunan pada Kamis (1/5/2025). PT Pertamina (Persero) menurunkan harga BBM jenis nonsubsidi, seperti Pertamax, Pertamax Turbo, P...",
+    "bm25": 14.904970672961728,
+    "cosine": 0.5273979926342383
+   },
+   {
+    "doc_id": 29856,
+    "dataset": "kompas",
+    "judul": "Harga BBM Pertamina Mei 2025 di Seluruh Indonesia, Cek Daftarnya",
+    "snippet": "KOMPAS.com - Bahan Bakar Mesin (BBM) menjadi kebutuhan primer bagi masyarakat yang memiliki kendaraan bermotor. BBM berfungsi menunjang aktivitas manusia dalam berkendara. PT Pertamina (Persero) kembali merilis harga BBM...",
+    "bm25": 14.782754696801248,
+    "cosine": 0.5251050315105038
+   }
+  ]
+ },
+ {
+  "query": "lagu anime",
+  "filter": null,
+  "tokens": [
+   "lagu",
+   "anime"
+  ],
+  "ms": 25,
+  "results": [
+   {
+    "doc_id": 40000,
+    "dataset": "mojok",
+    "judul": "7 Lagu Anime yang Pasti Bikin Kamu Makin Semangat",
+    "snippet": "Lagu anime punya magis tersendiri. Ia tidak dibuat khusus untuk anime tersebut, kadang malah diciptakan atau rilis jauh sebelum anime tersebut rilis. Tapi, dia tidak bisa dipisahkan dari anime. Ia seakan menyatu, dan men...",
+    "bm25": 20.714743182388837,
+    "cosine": 0.7822299479882555
+   },
+   {
+    "doc_id": 41718,
+    "dataset": "mojok",
+    "judul": "7 Lagu Luar Negeri yang Punya Vibes Mirip Lagu Indonesia",
+    "snippet": "Tak ada yang baru di bawah matahari. Ungkapan ini seolah jadi salah satu prinsip yang cukup penting dalam dunia pengkaryaan, entah musik, sastra, atau film. Maka tak heran jika ada sebuah karya yang mirip dengan karya-ka...",
+    "bm25": 8.424326267523824,
+    "cosine": 0.6175806794999419
+   },
+   {
+    "doc_id": 40985,
+    "dataset": "mojok",
+    "judul": "5 Rekomendasi Lagu The Rain yang Underrated",
+    "snippet": "Ngaku deh, kalau diminta menyebutkan lagu The Rain, pasti kalian akan menyebutkan “Terlatih Patah Hati” dan “Gagal Bersembunyi” kan? Hal itu wajar. Kedua lagu tersebut memang lagu yang ikonik dan unik. Ikonik, karena bis...",
+    "bm25": 8.420953017645383,
+    "cosine": 0.6072306785645523
+   },
+   {
+    "doc_id": 42236,
+    "dataset": "mojok",
+    "judul": "Rekomendasi Lagu-lagu Musisi Lampung yang Patut Didengar Selain Kangen Band",
+    "snippet": "Berbicara soal musisi Lampung, Kangen Band adalah satu nama yang pasti terpikirkan di benak kebanyakan orang. Wajar saja, sebab lagu-lagu dari grup band yang digawangi oleh Andika Mahesa sebagai vokalis itu sudah sering ...",
+    "bm25": 8.3790619036597,
+    "cosine": 0.5756942723822103
+   },
+   {
+    "doc_id": 45670,
+    "dataset": "mojok",
+    "judul": "6 Lagu SNSD yang Underrated, Wajib Masuk Playlist-mu",
+    "snippet": "Sudah menjadi rahasia umum jika SNSD atau Girls Generation adalah salah satu legenda industri K-Pop yang membuka jalan bagi musisi K-Pop lainnya dikenal dunia. Selain visual yang menawan dan natural, karya-karya SNSD mam...",
+    "bm25": 8.379121384054113,
+    "cosine": 0.5688507533254904
+   }
+  ]
+ },
+ {
+  "query": "dampak perubahan iklim terhadap pertanian",
+  "filter": null,
+  "tokens": [
+   "dampak",
+   "perubahan",
+   "iklim",
+   "pertanian"
+  ],
+  "ms": 28,
+  "results": [
+   {
+    "doc_id": 19193,
+    "dataset": "etd-ugm",
+    "judul": "Petani dan Perubahan Iklim",
+    "snippet": "Perubahan iklim merupakan permasalahan serius yang berdampak buruk untuk petani di Indonesia. Perubahan iklim menyebabkan kegagalan panen dan meningkatkan potensi terjadinya krisis pangan. Indonesia kerap disebut sebagai...",
+    "bm25": 20.43342743800887,
+    "cosine": 0.6007975055920243
+   },
+   {
+    "doc_id": 2737,
+    "dataset": "etd-usk",
+    "judul": "GAMBARAN PERSEPSI MASYARAKAT GAMPONG ALUE DEAH TEUNGOH KECAMATAN MEURAXA KOTA BANDA ACEH TENTANG RISIKO KESEHATAN AKIBAT DAMPAK PERUBAHAN IKLIM",
+    "snippet": "ABSTRAKPemanasan global dan perubahan iklim memberikan dampak negatif yang signifikan di sektor kesehatan. Namun hal ini kurang mendapat perhatian. Penelitian ini bertujuan untuk melihat gambaran persepsi masyarakat tent...",
+    "bm25": 18.890942376251846,
+    "cosine": 0.47923383829852306
+   },
+   {
+    "doc_id": 11593,
+    "dataset": "etd-ugm",
+    "judul": "Dampak Perubahan Iklim dan Proyeksi Kebutuhan Air Tanaman Padi di Kabupaten Batang Hari Provinsi Jambi",
+    "snippet": "Perubahan iklim menyebabkan perubahan pola curah hujan dan peningkatan temperatur. Kedua variabilitas iklim tersebut merupakan faktor penting dalam kegiatan pertanian sehingga sektor pertanian dianggap paling terdampak o...",
+    "bm25": 23.370958389113365,
+    "cosine": 0.4677071733467427
+   },
+   {
+    "doc_id": 3166,
+    "dataset": "etd-usk",
+    "judul": "HUBUNGAN PENGETAHUAN DAN SIKAP TENTANG DAMPAK PERUBAHAN IKLIM DI SEKTOR KESEHATAN TERHADAP PERILAKU TENAGA KESEHATAN PUSKESMAS KOTA BANDA ACEH",
+    "snippet": "Perubahan iklim telah terjadi dalam 130 tahun terakhir yang dapat dilihat dari peningkatan suhu sekitar 0,850C. Perubahan iklim memberikan dampak negatif pada sektor kesehatan. Dampak negatif ini sejalan dengan peningkat...",
+    "bm25": 18.87946306448059,
+    "cosine": 0.4672753505482331
+   },
+   {
+    "doc_id": 19983,
+    "dataset": "etd-ugm",
+    "judul": "PENGARUH PERUBAHAN IKLIM TERHADAP KETERSEDIAAN AIR BERSIH DAN KEJADIAN DIARE: A SCOPING REVIEW",
+    "snippet": "Latar belakang: penyakit diare telah menunjukan tingkat morbiditas dan mortalitas yang tinggi di berbagai negara di dunia, terutama di negara-negara berkembang. Di daerah tropis, penyakit diare seringkali terjadi pada mu...",
+    "bm25": 17.69778423492645,
+    "cosine": 0.41311367140377386
+   }
+  ]
+ },
+ {
+  "query": "pemilihan presiden",
+  "filter": null,
+  "tokens": [
+   "pemilihan",
+   "presiden"
+  ],
+  "ms": 18,
+  "results": [
+   {
+    "doc_id": 10117,
+    "dataset": "etd-ugm",
+    "judul": "PENGARUH PEMILIHAN PRESIDEN 2004-2019  TERHADAP RETURN PERDAGANGAN SAHAM DI INDONESIA",
+    "snippet": "Proses pergantian Presiden di Indonesia melalui Pemilihan Presiden yang pelaksanaannya dilakukan lima tahun sekali dengan pemungutan langsung suara rakyat yang terdata sebagai pemilih. Indonesia telah melaksanakan pemili...",
+    "bm25": 12.233598206397257,
+    "cosine": 0.6725927091345493
+   },
+   {
+    "doc_id": 38575,
+    "dataset": "tempo",
+    "judul": "Pemilihan Presiden Korea Selatan Setelah Pemakzulan Yoon Suk Yeol",
+    "snippet": "Pemilihan presiden Korea Selatantelah ditetapkan akan diadakan pada 3 Juni 2025, dikutip dariAntara. Pemilu dijadwalkan setelah pemakzulkanYoon Suk Yeoldinyatakan sah oleh Mahkamah Konstitusi. Penjabat Presiden Han Duck ...",
+    "bm25": 12.02466654590225,
+    "cosine": 0.5808377131175211
+   },
+   {
+    "doc_id": 31814,
+    "dataset": "tempo",
+    "judul": "Pemilihan Presiden Korea Selatan: Kandidat dan Permohonan Maaf Yoon Suk Yeol",
+    "snippet": "LEE Jae Myung mantan pemimpin Partai Demokrat mengumumkan pencalonannya dalampemilihan presiden Korea Selatan. Kabar tersebut disampaikan melalui pesan video pada Kamis, 10 April 2025. Pemilihan presiden Korea Selatan di...",
+    "bm25": 11.973611281462293,
+    "cosine": 0.5622560182058285
+   },
+   {
+    "doc_id": 408,
+    "dataset": "etd-usk",
+    "judul": "URGENSI PENCALONAN PRESIDEN DAN WAKIL PRESIDEN INDEPENDENT DI INDONESIA",
+    "snippet": "Pada pemilihan presiden dan wakil presiden, legislatif menetapkan peraturanpersyaratan kandidat calon presiden dan wakil presiden melalui pasal 6A ayat (2)UUD Bedasarkan data observasi lapangan. Keberadaan pasal tersebut...",
+    "bm25": 10.341462786601642,
+    "cosine": 0.48952544116277075
+   },
+   {
+    "doc_id": 46801,
+    "dataset": "mojok",
+    "judul": "Ketika Seorang Presiden Berpayung Hitam Melintas di Persawahan pada Saat Hujan",
+    "snippet": "Apa yang langsung terlintas di kepala Anda, ketika seorang presiden melintas di area persawahan, berpayung hitam, di saat hujan deras, dan sendirian? Sendirian? Sebetulnya semua orang tahu, beliau tidak sendirian. Ada ba...",
+    "bm25": 5.307620562969708,
+    "cosine": 0.48252978608879826
+   }
+  ]
+ },
+ {
+  "query": "sepak bola timnas",
+  "filter": null,
+  "tokens": [
+   "sepak",
+   "bola",
+   "timnas"
+  ],
+  "ms": 19,
+  "results": [
+   {
+    "doc_id": 48545,
+    "dataset": "mojok",
+    "judul": "Timnas Indonesia U-23 Bersama Shin Tae-yong Membuat Saya Merasakan Cinta Sekali Lagi",
+    "snippet": "Di hadapan timnas Indonesia U-23 dan Shin Tae-yong saya berlutut dan berdoa. Saya mendoakan mereka menjadi titik terang dan solusi sepak bola Indonesia. Kepala ini terasa begitu penuh, seperti ada gemuruh. Adalah 26 Dese...",
+    "bm25": 24.78482791494566,
+    "cosine": 0.616539708470762
+   },
+   {
+    "doc_id": 11325,
+    "dataset": "etd-ugm",
+    "judul": "Cara Kerja Wartawan Sepak Bola Indonesia (Studi Etnografi Adaptasi Wartawan Desk Sepak Bola di Jawa Pos Radar Jogja, Goal Indonesia, dan Bola dalam Menghadapi Kekerasan dan Dinamika Kerja di Tahun 2021)",
+    "snippet": "Sepak bola tak bisa dipungkiri adalah olahraga paling populer di dunia termasuk di Indonesia. Konten mengenai sepak bola sangat diminati masyarakat pecintanya di Tanah Air. Hal itu yang membuat konten mengenai sepak bola...",
+    "bm25": 16.28428015278593,
+    "cosine": 0.5746283851270566
+   },
+   {
+    "doc_id": 44944,
+    "dataset": "mojok",
+    "judul": "Sepak Bola Wanita Tak Semembosankan yang Dibayangkan",
+    "snippet": "“Sepak bola wanita itu membosankan, mainnya lemot, tidak kompetitif. Ia tidak seseru sepak bola pria.” Kalimat semacam ini mungkin jadi kalimat yang paling sering keluar dari mulut orang yang baru melihat sepak bola wani...",
+    "bm25": 23.864219938513088,
+    "cosine": 0.5514109665703558
+   },
+   {
+    "doc_id": 16595,
+    "dataset": "etd-ugm",
+    "judul": "Rencana Bisnis Pengembangan Media Garis Tengah Football Menjadi Akademi Sepak Bola",
+    "snippet": "Pengembangan pemain muda adalah salah satu permasalahan besar di industri sepak bola Indonesia. Sejak puluhan tahun yang lalu, pengembangan pemain muda hanya mengandalkan sekolah sepak bola, diklat, serta Pusat Pendidika...",
+    "bm25": 15.95980992935112,
+    "cosine": 0.5339934229851843
+   },
+   {
+    "doc_id": 251,
+    "dataset": "etd-usk",
+    "judul": "HUBUNGAN KESEIMBANGAN DINAMIS, KOORDINASI MATA-KAKI DAN KONSENTRASI DENGAN KETERAMPILAN SEPAK BOLA PEMAIN JUNIOR KLUB PERSATI ACEH TAMIANG",
+    "snippet": "HUBUNGAN KESEIMBANGAN DINAMIS, KOORDINASIMATA-KAKI DAN KONSENTRASI DENGANKETERAMPILAN SEPAK BOLA PEMAINJUNIOR KLUB PERSATIACEH TAMIANGAbstrak(Donny Pratomo)Keterampilan bermain sepak bola merupakan salah satu hal yang fu...",
+    "bm25": 16.16228313861915,
+    "cosine": 0.5083042452524147
+   }
+  ]
+ },
+ {
+  "query": "kecerdasan buatan",
+  "filter": "kompas",
+  "tokens": [
+   "kecerdasan",
+   "buatan"
+  ],
+  "ms": 7,
+  "results": [
+   {
+    "doc_id": 20637,
+    "dataset": "kompas",
+    "judul": "Kenali Perbedaan Zat Aditif Alami dan Buatan beserta Contohnya",
+    "snippet": "Kompas.com - Zat aditif alami dan buatan kerap ditemukan pada makanan sehari-hari, baik yang terbungkus dalam kemasan maupun olahan rumahan. Dilansir dari Buku Ilmu Pengetahuan Alam Kelas X SMA-LB (2016) oleh Kementerian...",
+    "bm25": 7.766428574295463,
+    "cosine": 0.2619113609135918
+   },
+   {
+    "doc_id": 28338,
+    "dataset": "kompas",
+    "judul": "\"Bapak AI\" Peringatkan Ancaman Kecerdasan Buatan \"Ambil Alih\" Manusia",
+    "snippet": "KOMPAS.com - Geoffrey Hinton, ilmuwan komputer di bidang kecerdasan buatan (artificial intelliigence/AI), mengungkapkan kekhawatirannya terhadap teknologi yang ia kembangkan. Hinton yang dijuluki \"Bapak AI\" ini mengataka...",
+    "bm25": 15.57140292645373,
+    "cosine": 0.24573659359149522
+   },
+   {
+    "doc_id": 23836,
+    "dataset": "kompas",
+    "judul": "5 Hewan Peliharaan Paling Cerdas, Ada Anjing dan Kucing",
+    "snippet": "KOMPAS.com - Beberapa hewan memiliki tingkat kecerdasan yang lebih tinggi dibandingkan yang lain. Selama bertahun-tahun, berbagai penelitian telah dilakukan untuk menilai kecerdasan hewan, terutama hewan peliharaan yang ...",
+    "bm25": 8.962036307333415,
+    "cosine": 0.2257064381589836
+   },
+   {
+    "doc_id": 29706,
+    "dataset": "kompas",
+    "judul": "Hindari Kebiasaan Makan Ini, Bisa Merusak Kesehatan Usus",
+    "snippet": "KOMPAS.com - Pola makan atau kebiasaan makan memiliki pengaruh terhadap kesehatan. Kebiasaan makan yang buruk bisa mengundang datangnya penyakit. Di antaranya bahkan termasuk penyakit-penyakit yang bisa memicu kematian, ...",
+    "bm25": 7.563987532597834,
+    "cosine": 0.21072487598054476
+   },
+   {
+    "doc_id": 26496,
+    "dataset": "kompas",
+    "judul": "Riset: AI Makin Canggih, tapi Juga Makin \"Halu\"",
+    "snippet": "KOMPAS.com - Semakin canggih kecerdasan buatan (Artificial Intelligence/AI) ternyata semakin tinggi juga tingkat halusinasinya. Halusinasi dalam konteks kecerdasan buatan, menggambarkan situasi di mana model kecerdasan b...",
+    "bm25": 15.146611412977139,
+    "cosine": 0.19188238911333405
+   }
+  ]
+ },
+ {
+  "query": "zzqxv plorf",
+  "filter": null,
+  "tokens": [
+   "zzqxv",
+   "plorf"
+  ],
+  "ms": 0,
+  "results": []
+ }
+]

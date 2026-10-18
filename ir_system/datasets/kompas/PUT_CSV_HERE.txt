@@ -1,0 +1,1 @@
+Letakkan file CSV (kompas) di folder ini.
