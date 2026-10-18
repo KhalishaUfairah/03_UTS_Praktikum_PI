@@ -9,9 +9,9 @@ dan **cosine similarity**.
 ## Anggota Tim
 | Nama | NPM |
 |------|-----|
-| (isi) | (isi) |
-| (isi) | (isi) |
-| (isi) | (isi) |
+| Andrea Widi | 2408107010083 |
+| Khalisha Ufairah | 2408107010084 |
+| Arsha Alifa Mahmud | 2408107010095 |
 
 ## Pipeline
 ```
