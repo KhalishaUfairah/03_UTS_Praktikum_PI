@@ -1,6 +1,6 @@
 # Multi-Dataset Information Retrieval System (CLI)
 
-UTS Praktikum Penelusuran Informasi - Departemen Informatika FMIPA, Universitas Syiah Kuala
+UTS Praktikum Penelusuran Informasi 
 
 Sistem Information Retrieval berbasis CLI yang mencari dan meranking dokumen dari 5 dataset
 (etd-usk, etd-ugm, kompas, tempo, mojok) memakai **Whoosh**, **CountVectorizer (Bag of Words)**,
